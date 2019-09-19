@@ -1,0 +1,23 @@
+body{
+    background-color: gray;
+}
+h1 {
+    font-family: Arial;
+}
+h2 {
+    font-family: Arial;
+
+}
+h3 {
+font-family: Arial;
+}
+.badsigns { 
+    color: red;
+    border: solid 2px black;
+    font-family: Arial;
+}
+
+h3.badsigns {
+
+    color: rebeccapurple;
+}
