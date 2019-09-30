@@ -28,3 +28,5 @@ function showAlert(){
 function logHello(){
     console.log('hello!');
 }
+
+console.log(document);
